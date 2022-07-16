@@ -1,0 +1,14 @@
+{
+  "ownerNumber": ["6281511480762@s.whatsapp.net"],
+  "ownerName": ["YahyaGanzz"],
+  "Instagram" : "カズヤクン" ,
+  "botName": "AzzBot-MD",
+  "sessionName": "session",
+  "pathimg": "./media/chris2.jpg",
+  "gamewaktu": 90,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
